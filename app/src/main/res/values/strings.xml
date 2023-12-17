@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoBatik</string>
+    <string name="imgDesc">ini gambar</string>
+    <string name="gobatik">GoBatik</string>
+    <string name="continuee">Continue</string>
+    <string name="nama_batik">Nama Batik</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="store">Store</string>
+    <string name="description">Description</string>
+</resources>
